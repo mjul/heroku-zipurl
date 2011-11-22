@@ -1,1 +1,2 @@
-web: lein run -m zipurl.core
+web: lein run -m zipurl.server
+
